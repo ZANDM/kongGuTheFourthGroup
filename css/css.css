@@ -1,0 +1,117 @@
+body{margin:0px;padding:0px;}
+#bg{width:1920px;
+height:1080px;
+background-color:#eef7f4;
+position:relative;
+left:50%;
+ margin-left:-960px;}
+#bg li{list-style-type:none;
+float: left;}
+.navigation{width:1920px;
+height:100px;
+background-color:#ffffff;}
+.daohang{width:358px;
+height:47px;
+background-image:url(../images/daohang.png);
+background-repeat:no-repeat;
+position:absolute;
+left:345px;
+top:28px;}
+.daohang1{width:95px;
+height:45px;
+background-image:url(../images/daohang1.png);
+background-repeat:no-repeat;
+position:absolute;
+left:1193px;
+top:28px;}
+.tiao1{width:139px;
+height:11px;
+background-image:url(../images/effect.png);
+position:absolute;
+left:1170px;
+top:89px;}
+.tiao2{width:139px;
+height:11px;
+background-image:url(../images/effect.png);
+position:absolute;
+left:1336px;
+top:89px;}
+.daohang2{width:95px;
+height:44px;
+background-image:url(../images/daohang2.png);
+background-repeat:no-repeat;
+position:absolute;
+left:1359px;
+top:28px;}
+.subject1{width:1920px;
+height:850px;
+background-image:url(../images/bgt.png);
+background-repeat:no-repeat;
+position:absolute;
+top:100px;}
+.subject2{width:1920px;
+height:850px;
+background-image:url(../images/bgt.png);
+background-repeat:no-repeat;
+position:absolute;
+top:100px;}
+.wenzi{width:1920px;
+height:36px;
+background-image:url(../images/wenzi.png);
+background-repeat:no-repeat;
+position:absolute;
+top:228px;}
+.father{width:1000px;
+height:380px;position:relative;}
+.son1{width:300px;
+height:380px;
+background-image:url(../images/ren.png);}
+.son2{width:300px;
+height:380px;
+background-image:url(../images/ren.png);
+position:absolute;
+left:350px;
+bottom:0px;}
+.son3{width:300px;
+height:380px;
+background-image:url(../images/ren.png);
+position:absolute;
+left:700px;
+bottom:0px;}
+.box{width: 1000px;
+height: 380px;
+overflow: hidden;
+position: absolute;
+left: 443px;
+top: 360px;}
+.out{width:5000px;
+height: 380px;
+float: left;}
+.out li{list-style-type:none;
+float: left;}
+.right{width:30px;
+height:58px;
+background-image:url(../images/buttonR.png);
+background-repeat:no-repeat;
+position:absolute;
+left:400px;
+top:521px;}
+.left{width:30px;
+height:58px;
+background-image:url(../images/buttonL.png);
+background-repeat:no-repeat;
+position:absolute;
+left:1490px;
+top:521px;}
+.copyright{width:1920px;
+height:130px;
+background-color:#adadad;
+position:absolute;
+bottom:0px;}
+.logo{width:44px;
+height:87px;
+background-image:url(../images/logo.png);
+background-repeat:no-repeat;
+position:absolute;
+left:568px;
+top:21px;}
